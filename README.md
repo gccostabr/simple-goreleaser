@@ -1,2 +1,3 @@
-# simple-goreleaser
-Sample project to test goreleaser
+# Simple GoReleaser
+
+Sample project to test [GoReleaser](https://goreleaser.com).

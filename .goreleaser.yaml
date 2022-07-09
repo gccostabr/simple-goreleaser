@@ -1,0 +1,9 @@
+nfpms:
+  -
+    package_name: simple-goreleaser
+    vendor: Guilherme Costa
+    homepage: https://gcosta.dev/
+    maintainer: Guilherme Costa <me@gcosta.dev>
+    description: |-
+      Sample package generated with GoReleaser.
+    license: MIT License
