@@ -7,5 +7,9 @@ nfpms:
     description: |-
       Sample package generated with GoReleaser.
     license: MIT License
+    formats:
+      - apk
+      - deb
+      - rpm
 sboms:
   - artifacts: archive
