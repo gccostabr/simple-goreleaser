@@ -7,3 +7,5 @@ nfpms:
     description: |-
       Sample package generated with GoReleaser.
     license: MIT License
+sboms:
+  - artifacts: archive
